@@ -10,7 +10,7 @@ namespace ExcelSheetColumnTitle
     {
         static void Main(string[] args)
         {
-
+            Solution.ConvertToTitle(2600);
         }
     }
 }
